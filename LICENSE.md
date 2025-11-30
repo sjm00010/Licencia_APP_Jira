@@ -4,6 +4,10 @@
 
 ---
 
+### Estado : _Autorizada_
+
+---
+
 ## 1. Definiciones
 
 - **"Software"**: El programa, código fuente, binarios, documentación y cualquier material asociado cubierto por esta licencia.
