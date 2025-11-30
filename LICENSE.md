@@ -4,7 +4,7 @@
 
 ---
 
-### Estado : _Revocada_
+### Estado : _Autorizada_
 
 ---
 
